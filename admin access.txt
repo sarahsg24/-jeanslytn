@@ -1,0 +1,4 @@
+http://localhost/jeansly/index.php
+sarah
+1566
+http://localhost/jeansly/admin_page.php
